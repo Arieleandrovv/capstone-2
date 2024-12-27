@@ -1,0 +1,22 @@
+.introduction{
+    height: 30%;
+}
+.card{
+    background: radial-gradient(125% 125% at 50% 10%, rgb(89, 208, 216) 30%, rgb(23, 103, 161) 80%);
+}
+
+.img-profile{
+    border-radius: 50%;
+}
+
+h3{
+    color: black;
+}
+
+.main-title{
+    font-size: 4rem;
+}
+
+.icon{
+    width: 20px;
+}
